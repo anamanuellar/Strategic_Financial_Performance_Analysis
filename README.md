@@ -82,6 +82,6 @@ The analysis follows a structured pipeline:
 
 **Ana Manuella Ribeiro**
 
-*Finance Professional transitioning to Data Analytics / Tech*
+*Finance professional building automation and analytics capability*
 
-[LinkedIn](https://www.linkedin.com/in/manu-ribeiro-dev/)
+[LinkedIn](https://www.linkedin.com/in/anamanuellar)
